@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://toolmight.com"><strong>Visit ToolMight →</strong></a>
+  <a href="https://toolmight.com"><strong>🌐 Visit ToolMight →</strong></a>
 </p>
 
 ---
