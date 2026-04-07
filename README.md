@@ -45,6 +45,7 @@ Some of the tools currently available:
 
 * [Regex Tester](https://toolmight.com/tools/regex-tester)
 * [Case Converter](https://toolmight.com/tools/case-converter)
+* [Duplicate Line Remover](https://toolmight.com/tools/duplicate-line-remover)
 
 ### 🔹 Conversion
 
@@ -56,10 +57,19 @@ Some of the tools currently available:
 
 * [CSS Gradient Generator](https://toolmight.com/tools/css-gradient-generator)
 * [Glassmorphism Generator](https://toolmight.com/tools/glassmorphism-generator)
+* [CSS Box Shadow Generator](https://toolmight.com/tools/css-box-shadow-generator)
+* [CSS Grid Generator](https://toolmight.com/tools/css-grid-generator)
+* [CSS Flexbox Playground](https://toolmight.com/tools/css-flexbox-playground)
 
 ### 🔹 Assets
 
 * [Favicon Generator](https://toolmight.com/tools/favicon-generator)
+
+
+### 🔹 Hashing & Security
+
+* [UUID Generator](https://toolmight.com/tools/uuid-generator)
+* [Hash Generator](https://toolmight.com/tools/hash-generator)
 
 ---
 
