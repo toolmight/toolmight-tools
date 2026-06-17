@@ -61,15 +61,26 @@ Some of the tools currently available:
 * [CSS Grid Generator](https://toolmight.com/tools/css-grid-generator)
 * [CSS Flexbox Playground](https://toolmight.com/tools/css-flexbox-playground)
 
-### 🔹 Assets
+### 🔹 Image Tools
 
 * [Favicon Generator](https://toolmight.com/tools/favicon-generator)
-
+* [Compress Image to Size](https://toolmight.com/tools/compress-image-to-size)
 
 ### 🔹 Hashing & Security
 
 * [UUID Generator](https://toolmight.com/tools/uuid-generator)
 * [Hash Generator](https://toolmight.com/tools/hash-generator)
+
+### 🔹 Builders
+
+* [Website to Extension Generator](https://toolmight.com/builders/website-to-extension-builder)
+
+  
+### 🔹 Play
+
+* [Typing Test](https://toolmight.com/play/typing-test)
+* [Typing Practice](https://toolmight.com/play/typing-practice)
+
 
 ---
 
